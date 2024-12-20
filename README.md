@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @tgarof
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning database systems
-- 💞️ I’m looking to collaborate on database systems
-- 📫 How to reach me here on github
+- 👀 I’m interested in artificial intelligence
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm new to github
 
